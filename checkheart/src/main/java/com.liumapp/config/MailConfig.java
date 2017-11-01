@@ -7,11 +7,11 @@ public class MailConfig {
     /**邮件服务器*/
     public final static String myEmailSMTPHost = "smtp.163.com";
     /**发件人邮箱账号*/
-    public final static String myEmailAccount = "nzlsgg@163.com";
+    public final static String myEmailAccount = "xxxx@163.com";
     /**收件人账号*/
-    public final static String receiveMailAccount = "1132263176@qq.com";
+    public final static String receiveMailAccount = "xxxxxxx@qq.com";
     /**邮件服务器授权码*/
-    public final static String myEmailPassword = "nzlsgg199595";
+    public final static String myEmailPassword = "xxxxxxxxxxx";
     /**邮件主题*/
     public final static String subject = "socket服务器挂掉了";
     /**发送人昵称*/
